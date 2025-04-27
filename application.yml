@@ -1,0 +1,7 @@
+token:
+  expiration_time: 1000000
+  secret: piyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyushpiyush
+
+login:
+  url:
+    path: /user/login
